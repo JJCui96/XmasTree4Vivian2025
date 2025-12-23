@@ -46,7 +46,6 @@ const MAX_LONG = 1.8;
 /** Step 4：改这里：写你 photos/ 目录下的图片文件名（建议png/jpg/webp） */
 const PHOTO_FILES = [
   "xmas01.JPG",
-  "xmas02.JPG",
   "xmas03.JPG",
   "xmas04.JPG",
   "xmas05.JPG",
